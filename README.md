@@ -3,7 +3,9 @@
 Hi, 
 
 Welcome to my GitHub. 
+
 Below are a few featured projects that demonstrate my skills in coding in these areas:
+
 * JavaScript
 * HTML
 * CSS
@@ -79,7 +81,9 @@ He wanted us to bring him into the 21st century with an easy to use platform to 
 The outcome, an easy to use secure platform to the owner to log in, see his inventory, make changes, and have a digestible format for him to work with for his business, click the link below for the deployed project on Heroku.
 
 user: arron@arron.com
+
 pw: 123
+
 [Deployed Project Sunny Day Growers](https://sunny-day-growers.herokuapp.com/).
 
 
