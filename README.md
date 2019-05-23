@@ -98,7 +98,7 @@ Simple Game of Thrones themed memory game built using React.
 
 The objective is to click on each of the characters without repeating a selection, if you manage to get through you save Westeros from the Knight King, if you don't, then Winter falls the land.
 
-The game is made a bit harder by shuffling the tiles when you make a selection, the game keeps track of your current score and max score, and automatically resets when you win or lose.
+The game is made a bit harder by the shuffling of tiles when you make a selection, the game keeps track of your current score and max score, and automatically resets when you win or lose.
 
 **Deployed Game on Git Pages**
 
