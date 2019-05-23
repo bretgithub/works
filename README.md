@@ -50,12 +50,12 @@ The project is still being iterated on to add more features and functionalit for
 * Reset password
 * Enhanced data reporting
 
-**Project repositories:**
+**Project Repositories:**
 * [Plantr App code](https://github.com/nkanderson86/Plant-r)
 * [API code](https://github.com/eblouin876/project-x-api)
 * [Raspberry Pi and Arduino code](https://github.com/eblouin876/project-x-pi)
 
-**To demo the app:**
+**To Demo the App:**
 Phone: (must have expo App downloaded on your phone) 
   1. Log into Expo with the credentials: 
       user: nkanderson86
@@ -80,13 +80,13 @@ He wanted us to bring him into the 21st century with an easy to use platform to 
 
 The outcome, an easy to use secure platform to the owner to log in, see his inventory, make changes, and have a digestible format for him to work with for his business, click the link below for the deployed project on Heroku.
 
-user: arron@arron.com
+**Deployed Project on Heroku**
+* user: arron@arron.com
+* pw: 123
+* [Sunny Day Growers Deployed Project Link](https://sunny-day-growers.herokuapp.com/).
 
-pw: 123
 
-[Deployed Project Sunny Day Growers](https://sunny-day-growers.herokuapp.com/).
+**Project Repository:**
 
-
-Project repository:
 [Sunny Day Growers App](https://github.com/bretgithub/Sunny-Day)
 
