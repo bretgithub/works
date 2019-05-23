@@ -12,8 +12,11 @@ Below are a few featured projects that demonstrate my skills in coding in these 
 * Node.js
 * Express.js
 * Passport.js
+* RESTful APIs
 * SQL
 * NoSQL
+* Heroku
+* MongoDB
 * Databases
 * React.js
 * React Native
