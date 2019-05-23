@@ -2,7 +2,8 @@
 
 Hi, 
 
-Welcome to my GitHub. Below are a few featured projects that demonstrate my skills in coding in these areas:
+Welcome to my GitHub. 
+Below are a few featured projects that demonstrate my skills in coding in these areas:
 * JavaScript
 * HTML
 * CSS
@@ -18,7 +19,7 @@ Welcome to my GitHub. Below are a few featured projects that demonstrate my skil
 
 Feel free to check out the repositories and deployed links to play around! If you have any questions or would like to talk to me about an open role at your company, email me [bret.allan@gmail.com](mailto:bret.allan@gmail.com?subject=[GitHub]%20You've%20got%20my%20attention).
 
-Also, check out my [LinkedIn](https://www.linkedin.com/in/bretja/)
+Also, check out my [LinkedIn](https://www.linkedin.com/in/bretja/).
 
 Enjoy and of course, ABC always be coding!
 
@@ -77,9 +78,10 @@ He wanted us to bring him into the 21st century with an easy to use platform to 
 
 The outcome, an easy to use secure platform to the owner to log in, see his inventory, make changes, and have a digestible format for him to work with for his business, click the link below for the deployed project on Heroku.
 
-[Deployed Project Sunny Day Growers](https://sunny-day-growers.herokuapp.com/).
 user: arron@arron.com
 pw: 123
+[Deployed Project Sunny Day Growers](https://sunny-day-growers.herokuapp.com/).
+
 
 Project repository:
 [Sunny Day Growers App](https://github.com/bretgithub/Sunny-Day)
