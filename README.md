@@ -43,7 +43,7 @@ The project is still being iterated on to add more features and functionality fo
 * Dashboard where listener is running to pick up newly plugged in devices (Arduinos) to set to your account
 * Dashboard to display status of device (Arduinos), if functional, on, or other status (some sensor not working)
 * Dashboard to show all devices (Arduinos) and set device details, plant to water, watering schedule, amount of water
-* Ability to add to device schedule, delete schedule for a device
+* Ability to set schedule for watering your plant
 * Easy to use and intuitive! Set it and forget it
 
 **Roadmap:**
