@@ -35,7 +35,7 @@ Ever think your green thumb isn't so green? Hate the idea of going away and poss
 
 This was a group project using React Native to automatically water your plants from your phone using a Raspberry Pi, arduinos, water pumps, hoses, a water receptacle, and of course...water and plants to water.  
 
-The project is still being iterated on to add more features and functionalit for the user. 
+The project is still being iterated on to add more features and functionality for the user. 
 
 **Current features:**
 * Create an account and register your Raspberry Pi
