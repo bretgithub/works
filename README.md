@@ -65,7 +65,7 @@ Phone: (must have expo App downloaded on your phone)
       pw: 1234
   2. Scan the QR code below with your phone and open in Expo
   
-  <p align="center">
+  <p align="left">
   <img src="https://github.com/bretgithub/works/blob/master/qr.png"  width="100" title="QR code">
   </p>
   
