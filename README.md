@@ -30,20 +30,20 @@ Enjoy and of course, ABC always be coding!
 
 Bret
 
-## PlantR App Project - React Native
+## PlantR App Project - React Native, Node, MongoDB
 Ever think your green thumb isn't so green? Hate the idea of going away and possibly starving your plants, or if you're like me, you need a reminder to water your plants and even then sometimes forget? Fret no more, we have built an easy to use app to take the guesswork and worry away! 
 
-This was a group project using React Native to automatically water your plants from your phone using a Raspberry Pi, arduinos, water pumps, hoses, a water receptacle, and of course...water and plants to water.  
+The project used React Native for the mobile app, Node and MongoDB for the backend and database. For the app and watering system to function the user has a main controller (Raspberry Pi) and a watering devices(Arduino) for each plant to be watered, that syncs with the main controller. 
 
 The project is still being iterated on to add more features and functionality for the user. 
 
 **Current features:**
-* Create an account and register your Raspberry Pi
+* Create an account and register your main controller
 * Secure login 
-* Dashboard where listener is running to pick up newly plugged in devices (Arduinos) to set to your account
-* Dashboard to display status of device (Arduinos), if functional, on, or other status (some sensor not working)
-* Dashboard to show all devices (Arduinos) and set device details, plant to water, watering schedule, amount of water
-* Ability to set schedule for watering your plant
+* Dashboard where listener is running to pick up newly plugged in watering device for your plant
+* Dashboard to display the status of your watering device(s) for each plant
+* Screen to edit/add a schedule to your watering device by day of the week, time, and amount to water
+* Screen to show the device schedule
 * Easy to use and intuitive! Set it and forget it
 
 **Roadmap:**
@@ -56,7 +56,7 @@ The project is still being iterated on to add more features and functionality fo
 **Project Repositories:**
 * [Plantr App React Native code](https://github.com/bretgithub/project-x-)
 * [API code](https://github.com/eblouin876/project-x-api)
-* [Raspberry Pi and Arduino code](https://github.com/eblouin876/project-x-pi)
+* [Main controller and watering device code](https://github.com/eblouin876/project-x-pi)
 
 **To Demo the App:**
 Phone: (must have expo App downloaded on your phone) 
