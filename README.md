@@ -64,6 +64,7 @@ Phone: (must have expo App downloaded on your phone)
       user: nkanderson86
       pw: 1234
   2. Scan the QR code below with your phone and open in Expo
+  ![QR Code](https://github.com/bretgithub/works/blob/master/qr.png)
   3. Use the credentials below to log in:
       user: Bret
       pw: bret
