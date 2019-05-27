@@ -54,7 +54,7 @@ The project is still being iterated on to add more features and functionality fo
 * Enhanced data reporting
 
 **Project Repositories:**
-* [Plantr App React Native code](https://github.com/nkanderson86/Plant-r)
+* [Plantr App React Native code](https://github.com/bretgithub/project-x-)
 * [API code](https://github.com/eblouin876/project-x-api)
 * [Raspberry Pi and Arduino code](https://github.com/eblouin876/project-x-pi)
 
